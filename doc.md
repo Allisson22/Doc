@@ -5,13 +5,13 @@
 
 The zip folder must follow this structure :
 
-/icons
-    woman.png (or .jpg, .jpeg)
-    man.png (or .jpg, .jpeg)
-    unknown.png (or .jpg, .jpeg)
-    child.png (or .jpg, .jpeg)
-    adult.png (or .jpg, .jpeg)
-    old.png (or .jpg, .jpeg)   
+/icons  
+    woman.png   (or .jpg, .jpeg)  
+    man.png     (or .jpg, .jpeg)  
+    unknown.png (or .jpg, .jpeg)  
+    child.png   (or .jpg, .jpeg)  
+    adult.png   (or .jpg, .jpeg)  
+    old.png     (or .jpg, .jpeg)
 
 ### File names
 
