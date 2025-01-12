@@ -19,18 +19,19 @@ The zip folder must follow this structure :
 
 ## File names
 
-- woman: Represents a woman.
-- man: Represents a man.
-- unknown: Represents a person of unknown gender.
-- child: Represents a child.
-- adult: Represents an adult.
-- old: Represents an elderly person.
+Images must be named and organized as follows:
+
+- woman: An image representing a woman.
+- man: An image representing a man.
+- unknown: An image representing a person of unknown gender.
+- child: An image representing a child.
+- adult: An image representing an adult.
+- old: An image representing an elderly person.
 
 ## Image format
 
 - Accepted formats: PNG, JPG, JPEG
-- Aspect ratio: 1:1 (square format).  
-If images do not meet this ratio, they will be resized, which might lead to stretching.
+- Aspect ratio: 1:1 (square format). If images do not meet this ratio, they will be resized, which might lead to stretching.
 
 ### Final steps
 
