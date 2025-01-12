@@ -5,7 +5,7 @@ This document explains the format you must follow to prepare a zip folder contai
 
 ## Zip folder structure
 
-The zip folder must follow this structure :
+The zip folder must follow this structure:
 
 ```
 /icons 
