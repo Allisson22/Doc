@@ -5,7 +5,7 @@
 
 The zip folder must follow this structure :
 
-/icons  
+/icons 
 >woman.png   (or .jpg, .jpeg)  
 >man.png     (or .jpg, .jpeg)  
 >unknown.png (or .jpg, .jpeg)  
@@ -43,12 +43,12 @@ If images do not meet this ratio, they will be resized, which might lead to stre
 Le dossier zip doit respecter la structure suivante :
 
 /icons
-    woman.png (ou .jpg, .jpeg)
-    man.png (ou .jpg, .jpeg)
-    unknown.png (ou .jpg, .jpeg)
-    child.png (ou .jpg, .jpeg)
-    adult.png (ou .jpg, .jpeg)
-    old.png (ou .jpg, .jpeg)
+>woman.png   (ou .jpg, .jpeg)  
+>man.png     (ou .jpg, .jpeg)  
+>unknown.png (ou .jpg, .jpeg)  
+>child.png   (ou .jpg, .jpeg)  
+>adult.png   (ou .jpg, .jpeg)  
+>old.png     (ou .jpg, .jpeg)
 
 ### Noms des fichiers
 
@@ -80,12 +80,12 @@ Si vos images ne respectent pas ce ratio, elles seront redimensionnées, ce qui 
 La carpeta zip debe seguir esta estructura:
 
 /icons
-    woman.png (o .jpg, .jpeg)
-    man.png (o .jpg, .jpeg)
-    unknown.png (o .jpg, .jpeg)
-    child.png (o .jpg, .jpeg)
-    adult.png (o .jpg, .jpeg)
-    old.png (o .jpg, .jpeg)
+>woman.png   (o .jpg, .jpeg)  
+>man.png     (o .jpg, .jpeg)  
+>unknown.png (o .jpg, .jpeg)  
+>child.png   (o .jpg, .jpeg)  
+>adult.png   (o .jpg, .jpeg)  
+>old.png     (o .jpg, .jpeg)
 
 ### Nombres de archivos
 
@@ -117,12 +117,12 @@ Si las imágenes no cumplen con esta relación, se redimensionarán, lo que podr
 يجب أن يتبع مجلد ZIP الهيكل التالي:
 
 /icons
-    woman.png (أو .jpg, .jpeg)
-    man.png (أو .jpg, .jpeg)
-    unknown.png (أو .jpg, .jpeg)
-    child.png (أو .jpg, .jpeg)
-    adult.png (أو .jpg, .jpeg)
-    old.png (أو .jpg, .jpeg)
+>woman.png   (أو .jpg, .jpeg)  
+>man.png     (أو  .jpg, .jpeg)  
+>unknown.png (أو  .jpg, .jpeg)  
+>child.png   (أو  .jpg, .jpeg)  
+>adult.png   (أو  .jpg, .jpeg)  
+>old.png     (أو  .jpg, .jpeg)
 
 ### أسماء الملفات
 
