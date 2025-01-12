@@ -7,13 +7,15 @@ This document explains the format you must follow to prepare a zip folder contai
 
 The zip folder must follow this structure :
 
-```/icons 
+```
+/icons 
     woman.png (or .jpg, .jpeg) 
     man.png (or .jpg, .jpeg) 
     unknown.png (or .jpg, .jpeg) 
     child.png (or .jpg, .jpeg) 
     adult.png (or .jpg, .jpeg) 
-    old.png (or .jpg, .jpeg)```
+    old.png (or .jpg, .jpeg)
+```
 
 ## File names
 
